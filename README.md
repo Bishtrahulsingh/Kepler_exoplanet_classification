@@ -2,7 +2,8 @@
 
 **Author:** Rahul singh bisht
 
-**Live Project Link:** [**View the Google Colab Notebook Here**]([https://colab.research.google.com/drive/1JYGHHv0r42J7yUPHogBD7Rt9SG8sW-xq](https://colab.research.google.com/drive/1JYGHHv0r42J7yUPHogBD7Rt9SG8sW-xq?usp=sharing))
+**Live Project Link:** [**View the Google Colab Notebook Here**](https://colab.research.google.com/drive/1JYGHHv0r42J7yUPHogBD7Rt9SG8sW-xq?usp=sharing)
+https://colab.research.google.com/drive/1JYGHHv0r42J7yUPHogBD7Rt9SG8sW-xq?usp=sharing
 
 ---
 
